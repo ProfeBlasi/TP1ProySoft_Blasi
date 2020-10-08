@@ -24,7 +24,6 @@ namespace AccesData.Queries
             var query = (from x in contexto.Libros where x.ISBN == isbn select x).FirstOrDefault();
             query.Stock = query.Stock + 1;
             contexto.Update(query);
-            contexto.SaveChanges();
         }
 
         public void DescuentoStock(string isbn)
@@ -32,7 +31,6 @@ namespace AccesData.Queries
             var query = (from x in contexto.Libros where x.ISBN == isbn select x).FirstOrDefault();
             query.Stock = query.Stock - 1;
             contexto.Update(query);
-            contexto.SaveChanges();
         }
 
         public bool ExisteIsbn(string isbn)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9K+c6QOiPpa1Z2VSE9zjpAxDZ+lLKEczF+CVKOZqJrwtfumkAYLWWXjPIHi5RTIQhS20S4uPpLK29MLkvDvihQ==",
+  "dgSpecHash": "MRMXvix5zs4+Bn/01vCOfzlrF2OsHd3pZdah+gAcrCJVs7Dcq9eobhwuehXqiZ+mq2bIrPHFOEIv/iA8ia0Y4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\AccesData\\AccesData.csproj",
+  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\AccesData\\AccesData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ezequiel\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\humanizer.core\\2.6.2\\humanizer.core.2.6.2.nupkg.sha512",
