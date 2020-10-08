@@ -8,7 +8,7 @@ namespace Domain.Interfaces.Service
 {
     public interface IAlquileresService
     {
-        string RegistrarProceso(string dni, string isbn, int estado);
+        string RegistrarProceso(AlquilerDTO proceso);
         List<DetalleReserva> GetReservas();
     }
 }

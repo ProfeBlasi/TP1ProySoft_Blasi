@@ -7474,11 +7474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\AccesData\\AccesData.csproj",
+      "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\AccesData\\AccesData.csproj",
       "projectName": "AccesData",
-      "projectPath": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\AccesData\\AccesData.csproj",
+      "projectPath": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\AccesData\\AccesData.csproj",
       "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\AccesData\\obj\\",
+      "outputPath": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\AccesData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7494,11 +7494,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\Aplication\\Aplication.csproj": {
-              "projectPath": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\Aplication\\Aplication.csproj"
+            "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\Aplication\\Aplication.csproj": {
+              "projectPath": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\Aplication\\Aplication.csproj"
             },
-            "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\Domain\\Domain.csproj"
+            "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\Domain\\Domain.csproj"
             }
           }
         }

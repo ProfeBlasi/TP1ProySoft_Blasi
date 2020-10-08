@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LEp+yutQr4gow/USe1FiDghQvN6nuP+vS5i4/VUtgHwdpuq3WE1YD/tmrDpqpPtSxs1AGyBemEM1TVsoh4kVTQ==",
+  "dgSpecHash": "tgp5AH4OMZ5S/kGEwYJT/jErZNwNDJmza9wDffC5kkfAHcQJ4DVwDAcdHit8L2MKsqvjESMglOSt9elOnS86Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\TP1-ORM-Blasi_Eduardo_Ezequiel\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\TraPra1ProyctoSoft\\TP1ProySoft_Blasi\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
