@@ -1,0 +1,17 @@
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\AccesData.deps.json
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\AccesData.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\AccesData.runtimeconfig.dev.json
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\AccesData.dll
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\AccesData.pdb
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.csproj.CopyComplete
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.dll
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.pdb
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.genruntimeconfig.cache
+C:\Users\Ezequiel\Desktop\TP1-ORM-Blasi_Eduardo_Ezequiel\AccesData\obj\Debug\netcoreapp3.1\AccesData.csproj.CoreCompileInputs.cache
